@@ -1,0 +1,68 @@
+#prod {
+    color: indigo;
+    font-family: 'Handlee', cursive;
+	font-size: 150%;
+	font-style: unset;
+}
+#fru {
+	color: blue;
+	font-family: "Brush Script MT", cursive;
+	font-size: 150%;
+    font-style: italic;
+    text-align: left;
+    text-decoration: underline;
+	text-decoration-style: wavy;
+}
+#boo {
+	color: red;
+	font-family: "Brush Script MT", cursive;
+	font-size: 150%;
+	font-style: italic;
+	text-align: left;
+	text-decoration: underline;
+	text-decoration-style: wavy;
+}
+#ora {
+	color: violet;
+	font-family: "Brush Script MT", cursive;
+	font-size: 150%;
+	font-style: italic;
+	text-align: left;
+	text-decoration: underline;
+	text-decoration-style: wavy;
+}
+#veg {
+	color: red;
+	font-family: "Brush Script MT", cursive;
+	font-size: 150%;
+	text-align: left;
+	text-decoration: underline;
+	text-decoration-style: wavy;
+}
+.row {
+	color: indigo;
+	font-family: "Brush Script MT", cursive;
+    text-align: center;
+    font-size: 200%;
+    border-bottom: solid 3px darkblue;
+    opacity: 0.5;
+}
+.wor {
+	color: teal;
+	font-family: "Brush Script MT", cursive;
+	font-style: italic;
+	font-size: 150%;
+	text-decoration: underline;
+	text-decoration-style: wavy;
+}
+.prd {
+	font-family: "Brush Script MT", cursive;	
+	color: dodgerblue;
+	text-decoration: underline;
+	text-decoration-style: wavy;
+}
+#tab {
+	color: red;
+	font-family: "Brush Script MT", cursive;
+	font-size: 200%;
+}
